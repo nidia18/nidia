@@ -1,0 +1,14 @@
+
+	.redessociales h2{
+	font-family: gabriola;
+	text-align: center;
+	font-weight: bold;
+	}
+.SOCIALES{
+	text-align: center;
+	padding-top: 40PX;
+	padding-bottom: 40PX;
+	}
+
+.SOCIALES li{
+	display: inline-block;
